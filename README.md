@@ -6,3 +6,5 @@ select number of rounds
 select a player
 can be interactive by more than one user
 should have lists of players by position
+
+it will be written in Ruby
